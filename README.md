@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 ---
-### :hammer: Мой стек:
-<div>
+### :hammer: Мой стек  
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JS" alt="JavaScript" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40" />
@@ -11,10 +11,14 @@
 </div>
 
 ---
-### Моя статистика:  
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JayWeee&theme=apprentice)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JayWeee&theme=apprentice)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JayWeee&theme=apprentice)
+### :trophy: Моя статистика  
+<div align="center">
+  <div>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JayWeee&theme=apprentice">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JayWeee&theme=apprentice">
+  </div>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JayWeee&theme=apprentice" width="684">
+</div>
 
 
 
