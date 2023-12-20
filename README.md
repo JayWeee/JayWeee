@@ -1,4 +1,21 @@
-### Hi there 👋
+### Привет 👋 Меня зовут Рома
+
+<img src="https://i.giphy.com/xuWkuYl33i28fIwkBM.webp" align="right" width="380">  
+  
+  Я - front-end разработчик, влюбленный в создание красивых веб-интерфейсов. Моё волшебство - HTML, CSS, JavaScript. Ищу вдохновение для творчества и готов к новым проектам! 🚀🎨
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 
 ---
 ### :hammer: Мой стек  
@@ -14,8 +31,8 @@
 ### :trophy: Моя статистика  
 <div align="center">
   <div>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JayWeee&theme=apprentice">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JayWeee&theme=apprentice">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JayWeee&theme=apprentice" width="340">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JayWeee&theme=apprentice" width="340">
   </div>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JayWeee&theme=apprentice" width="684">
 </div>
